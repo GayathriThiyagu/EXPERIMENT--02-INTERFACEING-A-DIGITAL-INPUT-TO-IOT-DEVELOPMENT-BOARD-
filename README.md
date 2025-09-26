@@ -307,8 +307,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- 
- ![WhatsApp Image 2025-09-26 at 09 00 42_a485d879](https://github.com/user-attachments/assets/c1f7e009-2cd4-482b-bd87-159501a07d1a)
+
+ ## LED when there is no Obstacle found:
+ ![WhatsApp Image 2025-09-26 at 13 39 19_bdd0145b](https://github.com/user-attachments/assets/b6611d02-7762-44e2-8372-19a023508219)
+
+## LED when Obstacle found:
+![WhatsApp Image 2025-09-26 at 13 39 22_2dd35b3f](https://github.com/user-attachments/assets/2f509398-c0ea-44f0-aaea-28512d4ba613)
+
+
 
  
  
