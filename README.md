@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 23:09:2025
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: T. Gayathri
+###  ROLL NO : 212223100007
+###  DEPARTMENT: CSE (Cyber security)
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
